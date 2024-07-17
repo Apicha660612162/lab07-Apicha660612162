@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล :อภิชา เลิศจินตนากิจ
 
-GitHub Page URL :
+GitHub Page URL :https://github.com/Apicha660612162/aPICHA
 http://127.0.0.1:5500/lab07-Apicha660612162/
 
 
